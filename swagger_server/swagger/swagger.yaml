@@ -4,7 +4,7 @@ info:
   description: API description for Tracking microservice.
   version: 1.0.0
 servers:
-- url: http://localhost:8080/tracking
+- url: http://people:8080/tracking
   description: Localhost - BT3 Dev
 tags:
 - name: Commons
